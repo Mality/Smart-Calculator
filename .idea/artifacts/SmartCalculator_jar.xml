@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmartCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmartCalculator_jar</output-path>
+    <root id="archive" name="SmartCalculator.jar">
+      <element id="module-output" name="SmartCalculator" />
+    </root>
+  </artifact>
+</component>
